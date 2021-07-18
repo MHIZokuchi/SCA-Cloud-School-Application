@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FcGz88oN6ux1FVKavHh0nb6k1DhT6ktjQk/kXbZJvA0cUWNgLwMo8zNMes1hAaYjQegAFkUgHea6Bkms3i31A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p7927\\source\\repos\\SCA-Cloud-School-Application\\SCA-Cloud-School-Application\\SCA-Cloud-School-Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p7927\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.4.10\\microsoft.visualstudio.azure.containers.tools.targets.1.4.10.nupkg.sha512"
+  ],
+  "logs": []
+}
