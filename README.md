@@ -1,5 +1,5 @@
-# SCA-Cloud-School-Application
-#### This is a simple asp.net core application, containerised with docker and  pushed to docker hub.
+
+# This is a simple asp.net core application, containerised with docker and  pushed to docker hub.
 
 ## Link to the docker image repo
  [Docker Repo](https://hub.docker.com/repository/docker/nneka234/sca-cloud-school-application)
